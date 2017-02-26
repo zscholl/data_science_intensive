@@ -7,6 +7,7 @@
     iii)    eda_projects
     iv)     first_data_story
     v)      project
+    vi)     supervised learning projects
 
 # Project
     This directory contains all files related to the capstone project.
