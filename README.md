@@ -8,6 +8,7 @@
     iv)     first_data_story
     v)      project
     vi)     supervised learning projects
+    vii)    clustering
 
 # Project
     This directory contains all files related to the capstone project.
